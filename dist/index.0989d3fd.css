@@ -1,0 +1,55 @@
+body {
+  font-family: Audiowide, cursive;
+  overflow-x: hidden;
+  background-color: #030303 !important;
+}
+
+.home {
+  text-align: center;
+  padding: 0 30px !important;
+}
+
+.signin {
+  color: #f0f8ff !important;
+}
+
+.clear {
+  clear: both;
+}
+
+h1 {
+  text-align: center;
+  border: .5em border red;
+  color: #fff;
+  background-color: red;
+  width: 100%;
+}
+
+.color {
+  color: #fff !important;
+}
+
+.comman {
+  text-align: center;
+  background-color: #000;
+  border: 1px solid #000;
+}
+
+.comman :hover {
+  background-color: red;
+}
+
+h2 {
+  color: #fff;
+}
+
+.doller {
+  font-size: 36px;
+  color: #f5f5f5 !important;
+}
+
+.font {
+  font-size: 14px;
+  color: #fff !important;
+}
+/*# sourceMappingURL=index.0989d3fd.css.map */

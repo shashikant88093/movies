@@ -1,0 +1,32 @@
+body {
+  font-family: Audiowide, cursive;
+}
+
+.home {
+  text-align: center;
+  padding: 0 30px !important;
+}
+
+.top-bar {
+  width: 100%;
+  margin-top: 30px;
+  padding-left: 30px;
+}
+
+h3 {
+  color: #fff;
+  background-color: red;
+  border: 1px solid red;
+  border-radius: 20px;
+  margin-top: 20px;
+  padding: 5px;
+}
+
+.comman {
+  text-align: center;
+}
+
+.signin {
+  color: #f0f8ff !important;
+}
+/*# sourceMappingURL=categories.2085d8da.css.map */
